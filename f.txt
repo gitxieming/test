@@ -10,4 +10,4 @@ add 3 in f.txt
 
 add 4 in f.txt  
 
-now is not internal  
+now is not internal  ddd <!--/-->
