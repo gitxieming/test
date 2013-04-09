@@ -11,8 +11,4 @@ add 3 in f.txt
 add 4 in f.txt  a sfsfsfs
 
 
-<<<<<<< HEAD
-made a change on master
-=======
-on branch testing
->>>>>>> testing
+
