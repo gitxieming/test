@@ -11,4 +11,5 @@ var fn = function( arg ){
 	//
 };
 
+fn.p = [];
 init( xxx );
