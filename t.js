@@ -1,4 +1,5 @@
-
+ceshi --amend
+ceshi --amend2
 console.log(123 after stash)
 var a = {};
 
