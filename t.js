@@ -1,6 +1,9 @@
 ceshi --amend
 ceshi --amend2
+<<<<<<< HEAD
 ceshi --amend3
+=======
+>>>>>>> c54a973d0ca6e16f1c35c57e914d9a5ff008f89e
 console.log(123 after stash)
 var a = {};
 
