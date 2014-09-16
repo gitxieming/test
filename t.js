@@ -1,3 +1,4 @@
+i w in master
 ceshi --amend
 ceshi --amend2
 <<<<<<< HEAD
